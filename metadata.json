@@ -1,0 +1,6 @@
+{
+  "name": "Virtual File Management System",
+  "description": "An OS simulation tool depicting file management, sequential allocation, and permission structures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
